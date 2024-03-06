@@ -62,5 +62,18 @@ button {
     
 }
 
+footer {
+    background-color: rgb(255, 0, 0);
+    padding: 12px;
+    margin-top: 12px;
+    display: flex;
+    flex-direction: row; 
+    color: white;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+}
 
-
+footer h2 {
+    margin-left: 49%; 
+    margin-right: 49%; 
+}

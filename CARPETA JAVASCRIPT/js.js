@@ -1,7 +1,7 @@
 function mostrarBiografia() {
-    window.location.href = "BIOGRAFIA.HTML";
+    window.location.href = "biografia.html";
 }
 
 function volverInicio(){
-    window.location.href = "INDEX.HTML"
+    window.location.href = "index.html"
 }
